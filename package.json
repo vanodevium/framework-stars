@@ -1,0 +1,17 @@
+{
+  "name": "framework-stars",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Automatic rank frameworks based on github stars",
+  "license": "WTFPL",
+  "author": {
+    "name": "Vano Devium",
+    "email": "vano@devium.me",
+    "url": "https://www.devium.me/"
+  },
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "3.6.0"
+  }
+}
